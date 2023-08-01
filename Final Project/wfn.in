@@ -1,0 +1,8 @@
+      0.05d0  2000   1                           h,npts,iprinx
+      1200.0d0  0.0011d0  2500                 T, dt, iprint
+      2000  -0.669859552d0                      nin, ebound
+      
+      
+      #don't need
+      #4      1900.0d0     1.0d0     30.0d0    2.500d0         nbar,r1,ra,rd,height
+      #1.832d0 100.0d0  1500.0d0    800.0d0    0.010d0   100   xk0,xw,x0,tmax,dt,iprint

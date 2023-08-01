@@ -1,0 +1,9 @@
+700         - Initial speed [m/s]
+0.1         - time step [s]
+0.00004     - drag [B2/m]
+30          - firing angle [degrees]
+0         - height h [meters]
+1            - 1 to test for optimal angle
+1           - drag type (0 for 2.23, 1 for 2.24, else for constant)
+0           - 0 for const gravity, else for varying gravity
+1           - 0 for maximizing distance, else for acquiring 19.5km

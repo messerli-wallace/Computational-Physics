@@ -1,0 +1,2 @@
+-1.0d0  -1.0d0  100000    200      th(1),om(1),nperiod,npp
+0.2d0  1.05d0  2.0d0             k (dampening const), q (force amplitude), Omega (force frequency)

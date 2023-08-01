@@ -1,0 +1,5 @@
+0.90d0        - Final assigned height [m]
+-0.10d0       - Final assigned distance from centerline [m]
+2             - Test argument: 0 for theta, 1 for omega, 2 to plot with following values
+3.666d0       - Theta that gets answer, after testing for theta
+186.5d0         - Omega that gets answer, after testing for omega  
